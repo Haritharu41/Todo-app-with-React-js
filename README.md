@@ -1,5 +1,6 @@
 # Todo app
-Here's the features: 🚀
+<h3>  Here's the features: 🚀</h3>
+
 
 ✅ Add Todo<br>
 ✅ Delete<br>
